@@ -1,0 +1,19 @@
+{
+  "name": "print-lite",
+  "description": "Print JavaScript values, truncated and on a single line",
+  "version": "0.0.0",
+  "author": {
+    "name": "Laurent Christophe",
+    "email": "lachrist@vub.ac.be"
+  },
+  "repository": "lachrist/aran",
+  "homepage": "http://github.com/lachrist/print-lite",
+  "license": "MIT",
+  "main": "index.js",
+  "keywords": [
+    "Print",
+    "JavaScript",
+    "Value",
+    "Tiny"
+  ]
+}
