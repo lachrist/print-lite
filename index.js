@@ -18,7 +18,7 @@ const loop = (value, width, depth, truncate) => {
   if (typeof value === "string")
     return JSON_stringify(cut(value, truncate));
   if (typeof value === "function")
-    return "function("+cut(value.name||"")+")";
+    return "function("+cut(value.name||"anonymous", truncate)+")";
   if (Array_isArray(value)) {
     depth--;
     if (value.length === 0)

@@ -1,7 +1,7 @@
 {
   "name": "print-lite",
   "description": "Print JavaScript values, truncated and on a single line",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "author": {
     "name": "Laurent Christophe",
     "email": "lachrist@vub.ac.be"
